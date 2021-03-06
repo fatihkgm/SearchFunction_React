@@ -1,7 +1,7 @@
 # SearchFunction_React
 
 👉 DWONLOAD THE SOURCE CODE;
- 🛠 Please make the installtion properly 
+ 🛠 Please make the installation properly 
  https://docs.npmjs.com/cli/v7/commands/npm-install
  
  
